@@ -11,7 +11,7 @@ You can use either the java or the kotlin variant of the theme template, dependi
 ![Theme example](/sample.png)
 
 ### Requirements
-Before you start creating a theme you nedd to have the latest version of Android Studio installed on your computer. To learn how to install and use Android Studio please start here:
+Before you start creating a theme you need to have the latest version of Android Studio installed on your computer. To learn how to install and use Android Studio please start here:
 [Google Developer: Android Studio](https://developer.android.com/studio)
 
 You need some basic knowledge on how to used Android Studio to build and run an Application and have a little knowledge about programming and the file structure of an Android Studio project. Don't be afraid though, you don't need to be an advanced programmer to create your new beautiful theme!
